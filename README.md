@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Jingxuan! I'm a PhD student in the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/) at [Imperial College London](https://www.imperial.ac.uk/), working on **vision-language models** and **data-efficient visual representation learning**. My research explores how large vision-language models can be adapted to **data-scarce domains** such as clinical imaging, and how **autonomous LLM agents** can take over more of the scientific research loop. I have published at top venues including **CVPR, ICCV, ICML, and NeurIPS**, and serve as a reviewer for ICML, AAAI, CVPR, ICLR, NeurIPS, ECCV, and MICCAI.
 
-🏠 [jingxuan.uk](https://jingxuan.uk) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ij5yAYIAAAAJ&hl=en) · 🐦 [X](https://x.com/NeverMoreNg) · ✉️ [j.kang26@ic.ac.uk](mailto:j.kang26@ic.ac.uk)
+🏠 [jingxuan.uk](https://jingxuan.uk) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ij5yAYIAAAAJ&hl=en) · 🐦 [X](https://x.com/NeverMoreNg) · ✉️ [j.kang26@ic.ac.uk](mailto:j.kang26@ic.ac.uk) · 💬 WeChat: `Romani0618`
 
 ## Recent blog posts
 
@@ -23,7 +23,7 @@ Hi 👋, I'm Jingxuan! I'm a PhD student in the [Department of Electrical and El
 ## Selected publications
 
 - **Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM** — CVPR 2026, Findings ([arXiv](https://arxiv.org/abs/2604.23314))
-- **From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection** — ICML 2025 ([arXiv](https://arxiv.org/abs/2505.13233))
+- **From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection** — ICML 2025 ([paper](https://proceedings.mlr.press/v267/cai25d.html))
 - **Translating Simulation Images to X-ray Images via Multi-Scale Semantic Matching** — MICCAI Workshop 2024 ([paper](https://link.springer.com/chapter/10.1007/978-3-031-73748-0_10))
 - **Style Transfer Meets Super-Resolution: Advancing Unpaired Infrared-to-Visible Image Translation with Detail Enhancement** — ACM MM 2023 ([paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612492))
 
