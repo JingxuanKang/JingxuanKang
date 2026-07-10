@@ -22,7 +22,7 @@ Hi 👋, I'm Jingxuan! I'm a PhD student in the [Department of Electrical and El
 
 ## Selected publications
 
-- **Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM** — CVPR 2026, Findings ([arXiv](https://arxiv.org/abs/2604.23314))
+- **Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM** — CVPR 2026, Findings ([paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Kang_Learning_from_Noisy_Prompts_Saliency-Guided_Prompt_Distillation_for_Robust_Segmentation_CVPRF_2026_paper.html))
 - **From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection** — ICML 2025 ([paper](https://proceedings.mlr.press/v267/cai25d.html))
 - **Translating Simulation Images to X-ray Images via Multi-Scale Semantic Matching** — MICCAI Workshop 2024 ([paper](https://link.springer.com/chapter/10.1007/978-3-031-73748-0_10))
 - **Style Transfer Meets Super-Resolution: Advancing Unpaired Infrared-to-Visible Image Translation with Detail Enhancement** — ACM MM 2023 ([paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612492))
