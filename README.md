@@ -15,6 +15,7 @@ Hi 👋, I'm Jingxuan! I'm a PhD student in the [Department of Electrical and El
 
 ## News
 
+- **2026.09** — Paper accepted to **NeurIPS 2026**: Beyond Pairwise Supervision: Spectral Characteristic Matching for Data-Efficient Multimodal Alignment
 - 🚩 **2026.06** — Selected as a Gold Reviewer for ICML 2026
 - 🚩 **2026.04** — Started my PhD at Imperial College London
 - **2026.03** — Paper on saliency-guided prompt distillation for SAM accepted to **CVPR 2026** (Findings); co-authored work on infrared video super-resolution also accepted to CVPR 2026
@@ -22,6 +23,7 @@ Hi 👋, I'm Jingxuan! I'm a PhD student in the [Department of Electrical and El
 
 ## Selected publications
 
+- **Beyond Pairwise Supervision: Spectral Characteristic Matching for Data-Efficient Multimodal Alignment** — NeurIPS 2026
 - **Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM** — CVPR 2026, Findings ([paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Kang_Learning_from_Noisy_Prompts_Saliency-Guided_Prompt_Distillation_for_Robust_Segmentation_CVPRF_2026_paper.html))
 - **From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection** — ICML 2025 ([paper](https://proceedings.mlr.press/v267/cai25d.html))
 - **Translating Simulation Images to X-ray Images via Multi-Scale Semantic Matching** — MICCAI Workshop 2024 ([paper](https://link.springer.com/chapter/10.1007/978-3-031-73748-0_10))
