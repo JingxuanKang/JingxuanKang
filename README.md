@@ -2,7 +2,7 @@
 
 Hi, I'm Jingxuan (Jensen)! I'm a PhD student in the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/) at [Imperial College London](https://www.imperial.ac.uk/). I work on **multimodal large language models (MLLMs)** and am moving toward **world models**. I also explore **AI for science** and **recursive self-improvement (RSI)**. My papers have appeared at CVPR, ICCV, ICML, NeurIPS, and ACM MM, and I serve as a reviewer for ICML, AAAI, CVPR, ICLR, NeurIPS, and ECCV.
 
-🏠 [jingxuan.uk](https://jingxuan.uk) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ij5yAYIAAAAJ&hl=en) · 🐦 [X](https://x.com/NeverMoreNg) · ✉️ [j.kang26@imperial.ac.uk](mailto:j.kang26@imperial.ac.uk) · 💬 WeChat: `Romani0618`
+[![Homepage](https://img.shields.io/badge/Homepage-jingxuan.uk-2B37C8?style=flat-square&logo=googlechrome&logoColor=white)](https://jingxuan.uk) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Jingxuan_Kang-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ij5yAYIAAAAJ&hl=en) [![X](https://img.shields.io/badge/X-@NeverMoreNg-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/NeverMoreNg) [![Email](https://img.shields.io/badge/Email-j.kang26@imperial.ac.uk-D9502C?style=flat-square&logo=maildotru&logoColor=white)](mailto:j.kang26@imperial.ac.uk) [![WeChat](https://img.shields.io/badge/WeChat-Romani0618-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
 
 ## Recent blog posts
 
